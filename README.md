@@ -84,3 +84,17 @@ Welcome to the tetrarena issues-only repo. This game aims to bring the classic t
 ## Purpose of this repository
 
 This repository hosts issues and features propositions that anyone wants or report about the game tetrarena
+
+[stars-shield]: https://img.shields.io/github/stars/jmischler72/tetrarena.svg?style=for-the-badge
+[stars-url]: https://github.com/jmischler72/tetrarena/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jmischler72/tetrarena.svg?style=for-the-badge
+[issues-url]: https://github.com/jmischler72/tetrarena/issues
+[license-shield]: https://img.shields.io/github/license/jmischler72/tetrarena.svg?style=for-the-badge
+[license-url]: https://github.com/jmischler72/tetrarena/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joffrey-mischler-4038a2214/
+[product-screenshot]: images/screenshot.png
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Colyseus]: https://colyseus.io/images/logos/logo-light-color.png
+[Colyseus-url]: https://docs.colyseus.io/
