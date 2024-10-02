@@ -18,12 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -85,12 +80,6 @@ Welcome to the tetrarena issues-only repo. This game aims to bring the classic t
 
 This repository hosts issues and features propositions that anyone wants or report about the game tetrarena
 
-[stars-shield]: https://img.shields.io/github/stars/jmischler72/tetrarena.svg?style=for-the-badge
-[stars-url]: https://github.com/jmischler72/tetrarena/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jmischler72/tetrarena.svg?style=for-the-badge
-[issues-url]: https://github.com/jmischler72/tetrarena/issues
-[license-shield]: https://img.shields.io/github/license/jmischler72/tetrarena.svg?style=for-the-badge
-[license-url]: https://github.com/jmischler72/tetrarena/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joffrey-mischler-4038a2214/
 [product-screenshot]: images/screenshot.png
