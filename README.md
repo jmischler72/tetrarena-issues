@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jmischler72/tetrarena">
+  <a href="https://github.com/jmischler72/tetrarena-issues">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -30,49 +30,21 @@
 
   <p align="center">
     A multiplayer game based on tetris made with Svelte, PixiJS and Colyseus
-    <br />
-    <a href="#about-the-project"><strong>Explore the docs »</strong></a>
-    <br />
     <br =>
-    <a style="font-weight: bold" href="https://tetris.joff72.tech">View Demo</a>
+    <a style="font-weight: bold" href="https://tetrarena.net">View Game</a>
     ·
-    <a href="https://github.com/jmischler72/tetrarena/issues/new">Report Bug</a>
+    <a href="https://github.com/jmischler72/tetrarena-issues/issues/new">Report Bug</a>
     ·
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#architecture-of-the-repo
-">Architecture of the repo</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://tetrarena.net)
 
 Welcome to the tetrarena issues-only repo. This game aims to bring the classic tetris experience in both single-player and competitive multiplayer modes.
 
